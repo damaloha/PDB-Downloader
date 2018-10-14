@@ -10,4 +10,4 @@ Enter the **ID**  of Protein data bank **"5QEB.pl"**.
 * ID
 * SEQRES
 * HELIX
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+![Texto alternativo](/Images/terminal.jpg)
