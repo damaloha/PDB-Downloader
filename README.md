@@ -4,10 +4,10 @@ Perl script to download pdb files and filter information about it
 To execute the script it must be executed from the terminal.
 
 Enter the **ID**  of Protein data bank **"5QEB.pl"**.
-  By default the script shows:
+By default the script shows:
   * TYPE
 * DATE
 * ID
 * SEQRES
 * HELIX
-![Texto alternativo](/Images/terminal.jpg)
+ PDB-Downloader/Images/terminal.png 
