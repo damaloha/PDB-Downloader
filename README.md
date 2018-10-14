@@ -11,5 +11,5 @@ By default the script shows:
 * SEQRES
 * HELIX
 
-![Terminal](PDB-Downloader/Images/terminal.png)
+![Terminal](https://raw.githubusercontent.com/damaloha/PDB-Downloader/master/Images/terminal.png)
  
