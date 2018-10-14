@@ -10,4 +10,6 @@ By default the script shows:
 * ID
 * SEQRES
 * HELIX
- PDB-Downloader/Images/terminal.png 
+
+![Alt text](PDB-Downloader/Images/terminal.png ?raw=true "terminal")
+ 
