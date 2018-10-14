@@ -11,5 +11,5 @@ By default the script shows:
 * SEQRES
 * HELIX
 
-![Alt text](PDB-Downloader/Images/terminal.png ?raw=true "terminal")
+![Terminal](PDB-Downloader/Images/terminal.png)
  
