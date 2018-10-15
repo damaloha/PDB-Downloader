@@ -30,12 +30,6 @@ while($linea=<PDB>){
 		print "HELIX:\t".$1."\n";
 	}
 }
-		#print STDOUT "El número total de proteinas con secuencia <=50 aa es de: \"$contador_proteinas_menor_50\"\n";
-
-
-		#next;
-
-
 close PDB;
 rename "temp_file.pdb",$file;
 chomp($file);
