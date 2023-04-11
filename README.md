@@ -13,3 +13,4 @@ By default the script shows:
 
 ![Terminal](https://raw.githubusercontent.com/damaloha/PDB-Downloader/master/Images/terminal.png)
  
+<a rel="me" href="https://mastodon.social/@damaloha">Mastodon</a>
